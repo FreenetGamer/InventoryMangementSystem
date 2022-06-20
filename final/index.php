@@ -1,3 +1,3 @@
 <?php 
- header('location: ../final/Main.php'); 
+ header('location: ../final1/tree/main/final/Main.php'); 
 ?>
